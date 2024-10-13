@@ -1,21 +1,18 @@
 # laravel-notes
 My own personal laravel notes and command
 
+### New project in laragon/www
+composer create-project laravel/laravel laraveldemo
 
-Buka terminal, pada path "C:\Apps\laragon\www"
-##Buat project Laravel baru
-composer create-project laravel/laravel:^10.0 laraveldemo
-
-##Masuk ke folder laraveldemo
+### Masuk ke folder laraveldemo
 cd laraveldemo
+code .
 
-##Tambahkan git ke folder laraveldemo
+### Tambahkan git ke folder laraveldemo
 git init
-git remote add origin https://github.com/mkvem/laravelwithtailwind.git
+git remote add origin link_git
 git remote -v
-##Untuk menambahkan seluruh isi folder project laraveldemo
+
 git add . 
 git commit
-
-##Push ke branch main
 git push origin master
