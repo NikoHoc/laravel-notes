@@ -42,6 +42,7 @@ php artisan make:model Article -m -f -s
 ### Controller
 ```bash
 php artisan make:controller ArticleController
+php artisan make:controller ArticleController --resource
 ```
 
 ### Migrrate - Seed
