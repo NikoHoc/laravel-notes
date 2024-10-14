@@ -8,6 +8,8 @@ My own personal laravel notes and command
 - Laravel IDE Helper (georgykurian)
 - laravel intellisense (Mohamed Benhida)
 
+### Class Docs
+[Table Relationship and Pagination](https://docs.google.com/document/d/1_NjHqap-FfzC7zP9p321GN5v9nPRUikbMdOlihGysNE/edit?tab=t.0)
 ### New project in laragon/www
 ```bash
 composer create-project laravel/laravel laraveldemo
