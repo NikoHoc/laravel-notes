@@ -23,3 +23,7 @@ git add .
 git commit
 git push origin master
 ```
+
+### Install Tailwind
+[Tailwind Install](https://tailwindcss.com/docs/guides/laravel )
+
