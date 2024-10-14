@@ -26,4 +26,11 @@ git push origin master
 
 ### Install Tailwind
 [Tailwind Install](https://tailwindcss.com/docs/guides/laravel )
+Add app.css in head, app.js in body
+```javascript
+@vite('resources/css/app.css')
+@vite(['resources/js/app.js'])
+```
+### Basic Layout
+[Basic Layout Laravel](https://github.com/NikoHoc/laravel-journey/commit/bf6b3040268bd8409005da178fb2e5661fd1d045#diff-d811fc052d23063350b0f7e7303b595c7dbc51c81d1125bf099d079c1245f0b8)
 
