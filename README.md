@@ -1,6 +1,13 @@
 # laravel-notes
 My own personal laravel notes and command
 
+### Extension
+- Tailwind CSS IntelliSense (Tailwind Labs)
+- PHP Namespace Resolver (Mehedi Hassan) -> To use ctrl + alt + i 
+- PHP Intelephense (Ben Mewburn) -> For IntelliSense, to use ctrl + space
+- Laravel IDE Helper (georgykurian)
+- laravel intellisense (Mohamed Benhida)
+
 ### New project in laragon/www
 ```bash
 composer create-project laravel/laravel laraveldemo
