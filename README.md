@@ -34,3 +34,21 @@ Add app.css in head, app.js in body
 ### Basic Layout
 [Basic Layout Laravel](https://github.com/NikoHoc/laravel-journey/commit/bf6b3040268bd8409005da178fb2e5661fd1d045#diff-d811fc052d23063350b0f7e7303b595c7dbc51c81d1125bf099d079c1245f0b8)
 
+### Model - Migration - Factory - Seeder
+```bash
+php artisan make:model Article -m -f -s
+```
+
+### Controller
+```bash
+php artisan make:controller ArticleController
+```
+
+### Migrrate - Seed
+```
+php artisan migrate:fresh --seed
+```
+
+
+
+
