@@ -10,6 +10,8 @@ My own personal laravel notes and command
 
 ### Class Docs
 [Table Relationship and Pagination](https://docs.google.com/document/d/1_NjHqap-FfzC7zP9p321GN5v9nPRUikbMdOlihGysNE/edit?tab=t.0)
+
+[ppt](https://drive.google.com/drive/folders/1nCBvqMZbl-P23s_Y6Yxqy4RZ2ksSIeHS?usp=sharing)
 ### New project in laragon/www
 ```bash
 composer create-project laravel/laravel laraveldemo
